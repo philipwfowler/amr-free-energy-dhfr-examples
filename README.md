@@ -6,7 +6,7 @@ The files contained within this simple tutorial complement our manuscript titled
 
 To obtain the repository, assuming you have git installed, issue.
 
-    git clone https://github.com/philipwfowler/alchembed-tutorial.git 
+    git clone https://github.com/philipwfowler/amr-free-energy-dhfr-examples.git 
 
 which will create a directory called alchembed-tutorial and download the files. Please note that the total repo is around 0.5GB.
 
