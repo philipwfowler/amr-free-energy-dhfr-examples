@@ -1,0 +1,12 @@
+# uncompressed GROMACS input files
+*tpr
+
+# GROMACS output files
+\#dhfr-3fre*
+*xtc
+*trr
+*gro
+*xvg
+*edr
+*cpt
+*log
