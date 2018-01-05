@@ -18,7 +18,7 @@ To allow a reader of our manuscript to calculate how the binding free energies o
 
 Please cite
 
-Fowler PW, Cole K, Gordon NC, Kearns AM, Llewelyn, Peto TEA, Crook DW, Waker AS. Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus. Cell Chem Biol 2018; in press. [doi:10.1016/j.chembiol.2017.12.009](http://dx.doi.org/10.1016/j.chembiol.2017.12.009)
+> Fowler PW, Cole K, Gordon NC, Kearns AM, Llewelyn, Peto TEA, Crook DW, Waker AS. Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus. Cell Chem Biol 2018; in press. [doi:10.1016/j.chembiol.2017.12.009](http://dx.doi.org/10.1016/j.chembiol.2017.12.009)
 
 or in BibTeX format
 
