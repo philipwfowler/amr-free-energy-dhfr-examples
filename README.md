@@ -22,15 +22,15 @@ Please cite
 
 or in BibTeX format
 
-@article{Fowler2016,
-author = {Fowler, Philip W and Cole, Kevin and Gordon, N Claire and Kearns, Angela M and Llewelyn, Martin J and Peto, Tim E A  and Crook, Derrick W and Walker, A Sarah},
-doi = {10.1016/j.chembiol.2017.12.009},
-journal = {Cell Chem Biol},
-title = {{Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus}},
-url = {http://dx.doi.org/10.1016/j.chembiol.2017.12.009},
-volume = {in press},
-year = {2018}
-}
+    @article{Fowler2016,
+    author = {Fowler, Philip W and Cole, Kevin and Gordon, N Claire and Kearns, Angela M and Llewelyn, Martin J and Peto, Tim E A  and Crook, Derrick W and Walker, A Sarah},
+    doi = {10.1016/j.chembiol.2017.12.009},
+    journal = {Cell Chem Biol},
+    title = {{Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus}},
+    url = {http://dx.doi.org/10.1016/j.chembiol.2017.12.009},
+    volume = {in press},
+    year = {2018}
+    }
 
 ## Prerequisites
 
