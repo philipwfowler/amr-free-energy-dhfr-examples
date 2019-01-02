@@ -2,7 +2,7 @@
 
 ## Release notes
 
-The files contained within this simple tutorial complement our manuscript titled "Robust prediction of resistance to trimethoprim in *Staphylococcus aureus*" that is currently under revision. Once the manuscript is published, this README file will updated with a DOI and appropriate URLs.
+The files contained within this simple tutorial complement our manuscript titled "Robust prediction of resistance to trimethoprim in *Staphylococcus aureus*" that is published in Cell Chem Biol. 
 
 To obtain the repository, assuming you have git installed, issue.
 
@@ -18,7 +18,7 @@ To allow a reader of our manuscript to calculate how the binding free energies o
 
 Please cite
 
-> Fowler PW, Cole K, Gordon NC, Kearns AM, Llewelyn, Peto TEA, Crook DW, Waker AS. Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus. Cell Chem Biol 2018; in press. [doi:10.1016/j.chembiol.2017.12.009](http://dx.doi.org/10.1016/j.chembiol.2017.12.009)
+> Fowler PW, Cole K, Gordon NC, Kearns AM, Llewelyn, Peto TEA, Crook DW, Waker AS. Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus. Cell Chem Biol (2018) 25:339-349. [doi:10.1016/j.chembiol.2017.12.009](http://dx.doi.org/10.1016/j.chembiol.2017.12.009)
 
 or in BibTeX format
 
@@ -28,7 +28,8 @@ or in BibTeX format
     journal = {Cell Chem Biol},
     title = {{Robust Prediction of Resistance to Trimethoprim in Staphylococcus aureus}},
     url = {http://dx.doi.org/10.1016/j.chembiol.2017.12.009},
-    volume = {in press},
+    volume = {25},
+    pages={339-349},
     year = {2018}
     }
 
